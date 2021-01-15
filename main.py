@@ -1,6 +1,7 @@
 import pygame 
 from pygame.locals import *
 
+# Add snake body next 
 
 pygame.init()
 
